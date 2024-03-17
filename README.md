@@ -9,7 +9,7 @@ This E-commerce website contains Beauty products of different categories like Ma
 The E-commerce demo can be <http://13.201.13.60/ecommerce>
 
 **HomePage:**
-
+![Getting Started](./images/1.jpg)
 
 
 
